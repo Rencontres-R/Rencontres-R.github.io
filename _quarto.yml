@@ -62,5 +62,7 @@ website:
 format:
   html:
     toc: true
-    light: litera
-    dark: cyborg
+    theme:
+      light: flaty
+      dark: darkly
+    respect-user-color-scheme: true
