@@ -1,0 +1,66 @@
+project:
+  type: website
+
+website:
+  title: "Rencontres R"
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**Alert** - Site web en construction"
+    type: info
+    position: below-navbar
+  page-footer:
+    center:
+      - text: "Rencontres R | 2012-2025"
+  navbar:
+    left:
+    - text: "Accueil"
+      href: index.qmd
+    - text: "Informations"
+      menu:
+      - text: "Présentation"
+        href: presentation.qmd
+      - text: "Comité"
+        href: comite.qmd
+      - text: "Partenaires"
+        href: partenaires.qmd
+      - text: "Code de conduite"
+        href: coc.qmd
+      - text: "Mentions légales"
+        href: mentionslegales.qmd 
+    - text: "Editions"
+      menu:
+      - text: "2025"
+        href: RR2025.qmd
+      - text: "2024"
+        href: RR2024.qmd
+      - text: "2023"
+        href: RR2023.qmd
+      - text: "2021"
+        href: RR2021.qmd
+      - text: "2018"
+        href: RR2018.qmd
+      - text: "2017"
+        href: RR2017.qmd
+      - text: "2016"
+        href: RR2016.qmd
+      - text: "2015"
+        href: RR2015.qmd
+      - text: "2014"
+        href: RR2014.qmd
+      - text: "2013"
+        href: RR2013.qmd
+      - text: "2012"
+        href: RR2012.qmd
+    right:
+      - text: "Source"
+        icon: "git"
+        href: https://github.com/Rencontres-R/Rencontres_R.git
+      - text: "Contact"
+        href: "contact.qmd"
+
+format:
+  html:
+    toc: true
+    light: litera
+    dark: cyborg
