@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "comite.html",
-    "href": "comite.html",
-    "title": "Comité",
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "Présentation",
     "section": "",
-    "text": "le com"
+    "text": "la prez"
   },
   {
     "objectID": "index.html",
@@ -14,11 +14,11 @@
     "text": "Le siteweb des Rencontres R…"
   },
   {
-    "objectID": "presentation.html",
-    "href": "presentation.html",
-    "title": "Présentation",
+    "objectID": "partenaires.html",
+    "href": "partenaires.html",
+    "title": "Partenaires",
     "section": "",
-    "text": "la prez"
+    "text": "le partenaires"
   },
   {
     "objectID": "RR2025.html",
@@ -28,10 +28,10 @@
     "text": "RR2025"
   },
   {
-    "objectID": "partenaires.html",
-    "href": "partenaires.html",
-    "title": "Partenaires",
+    "objectID": "comite.html",
+    "href": "comite.html",
+    "title": "Comité",
     "section": "",
-    "text": "le partenaires"
+    "text": "le com"
   }
 ]
