@@ -2,4 +2,19 @@
 title: "Comité"
 ---
 
-le com
+Le comité de pilotage est constitué des personnes suivantes:
+
+- Julie Aubert
+- Rémy Drouilhet
+- François Husson
+- Jean-François Rey
+- Maëlle Salmon
+- Aurélie Siberchicot
+
+Les anciens membres du comité de pilotage :
+- Marie Chavent
+- Stéphane Dray
+- Robin Genuer
+- Julie Josse
+- Benoît Liquet
+- Jérôme Saracco

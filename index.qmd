@@ -2,4 +2,18 @@
 title: "Rencontres R"
 ---
 
-Le siteweb des Rencontres R...
+Les **Rencontres R** ont pour objectif d'offrir à la communauté francophone un lieu d'échange et de partage d'idées sur l'usage du langage R toutes disciplines confondues.
+
+**Vous trouverez sur ce site**
+
+-   les actualités sur les rencontres R (notamment les prochaines rencontres R)
+
+-   les liens vers chacune des rencontres R qui ont déjà eu lieu
+
+-   les résumés de toutes les rencontres avec une recherche par mots-clés ou auteurs
+
+-   des liens pour communiquer avec la communauté R (slack, linkedIn)
+
+-   une chaine Youtube avec les présentations enregistrées
+
+-   ...
