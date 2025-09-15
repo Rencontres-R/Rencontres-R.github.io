@@ -2,3 +2,4 @@
 *.json
 \.quarto
 /.quarto/
+.Rproj.user
