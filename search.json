@@ -4,14 +4,14 @@
     "href": "presentation.html",
     "title": "Présentation",
     "section": "",
-    "text": "la prez"
+    "text": "Extrait du guide pour le comité de pilotage des Rencontres R (2012):\nL’esprit des Rencontres R est de fournir à l’échelle nationale un lieu d’échange et de partage d’idées sur l’usage du logiciel R dans différentes disciplines (Visualisation & graphiques, Statistique appliquée, Biostatistique, Statistique bayésienne, Bioinformatique, Analyse des données, Modélisation, Machine learning, High performance computing…).\nCes rencontres sont destinées à tous types d’utilisateurs de R : les chercheurs, les enseignants, les industriels, les étudiants, … Elles sont ouvertes aux statisticiens, aux informaticiens et à tous les domaines d’application. Elles s’adressent aussi bien aux débutants qu’aux utilisateurs confirmés et expérimentés.\nHistorique\nC’est en août 2011 (juste après la conférence internationale useR! 2011) qu’est née l’idée de créer une version française de ce type de manifestation autour du logiciel R. Les personnes à l’initiative de cet événement sont : Marie Chavent, Robin Genuer, François Husson, Julie Josse, Benoit Liquet, Jérôme Saracco.\nLes premières rencontres R ont ainsi été organisées les 2 et 3 juillet 2012 à Bordeaux. Elles ont bénéficié immédiatement du parrainage de la SFdS (Société Française de Statistique), ainsi que celui de la SMAI et de la SFB (Société Française de Biométrie)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Rencontres R",
     "section": "",
-    "text": "Le siteweb des Rencontres R…"
+    "text": "Les Rencontres R ont pour objectif d’offrir à la communauté francophone un lieu d’échange et de partage d’idées sur l’usage du langage R toutes disciplines confondues.\nVous trouverez sur ce site\n\nles actualités sur les rencontres R (notamment les prochaines rencontres R)\nles liens vers chacune des rencontres R qui ont déjà eu lieu\nles résumés de toutes les rencontres avec une recherche par mots-clés ou auteurs\ndes liens pour communiquer avec la communauté R (slack, linkedIn)\nune chaine Youtube avec les présentations enregistrées\netc."
   },
   {
     "objectID": "partenaires.html",
@@ -32,6 +32,6 @@
     "href": "comite.html",
     "title": "Comité",
     "section": "",
-    "text": "le com"
+    "text": "Le comité de pilotage est constitué des personnes suivantes:\n\nJulie Aubert\nRémy Drouilhet\nFrançois Husson\nJean-François Rey\nMaëlle Salmon\nAurélie Siberchicot\n\nLes anciens membres du comité de pilotage : - Marie Chavent - Stéphane Dray - Robin Genuer - Julie Josse - Benoît Liquet - Jérôme Saracco"
   }
 ]
