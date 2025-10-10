@@ -28,6 +28,3 @@ programme |> dplyr::select(auteurrices, titre, mots_cles) |>
   kable_styling(bootstrap_options = c("striped", "hover")) |>
   column_spec(1, color = spec_color(as.numeric(as.factor(programme$type))))
 ```
-
-
-

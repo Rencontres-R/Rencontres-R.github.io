@@ -9,7 +9,20 @@ tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logoR2018.png"
 ---
 
-Les rencontres R 2018 ont eu lieu à l'Institut Agro (Rennes) du 4 au 6 juillet 2018.
+Les **7e rencontres R de 2018** ont eu lieu à l'Institut Agro (Rennes) du 4 au 6 juillet 2018 ([Lien vers le site](https://r2018-rennes.sciencesconf.org/)).
+
+**Conférenciers invités**
+
+- Bettina Grün : Tools and methods for model-based clustering in R [abstract](https://r2018-rennes.sciencesconf.org/data/pages/Grun.pdf)
+
+- Jean-Benoist Léger: Clustering des noeuds d'un réseau dans le cadre des Stochastic et Latent Blockmodels [résumé](https://r2018-rennes.sciencesconf.org/data/pages/leger_1.pdf)
+
+- Eric Marcon : Conversion d'une équipe à une méthode de travail plus efficace et fiable : autour de R (RMarkdown, Git et packages) [résumé](https://r2018-rennes.sciencesconf.org/data/pages/Marcon.pdf)
+
+- Dirk Schumacher : From the knapsack problem to drawing metro maps - mixed integer linear programming in R  [abstract](https://r2018-rennes.sciencesconf.org/data/pages/Scumacher.pdf)
+
+- Romain Tavenard : Introduction au deep Learning 
+
 
 ```{r set-up}
 #| include: false
