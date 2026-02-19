@@ -23,7 +23,7 @@ jobs:
           r-version: 'release'
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          packages: any::knitr, any::rmarkdown, any::kableExtra
+          packages: any::knitr, any::rmarkdown, any::kableExtra, any::dplyr
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
