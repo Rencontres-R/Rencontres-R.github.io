@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Rencontres R"
+  favicon: media/favicon.ico
   announcement:
     icon: info-circle
     dismissable: true
@@ -13,6 +14,7 @@ website:
     center:
       - text: "Rencontres R | 2012-2025"
   navbar:
+    logo: media/logo_RR_small.png
     left:
     - text: "Accueil"
       href: index.qmd
