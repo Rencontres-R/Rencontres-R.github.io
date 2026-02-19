@@ -1,0 +1,10 @@
+---
+title: "Animations"
+lang: fr
+listing:
+  contents: posts
+  max-description-length: 120
+  sort: "date desc"
+  type: grid
+  categories: true
+---

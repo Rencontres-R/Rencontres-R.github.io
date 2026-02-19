@@ -1,0 +1,30 @@
+---
+title: Rencontres R 2021
+lang: fr
+author: ''
+date: '2021-07-12'
+slug: RR2021
+categories: [workshop]
+tags: [Shiny, DevOps, Reproducibility, Packages, Stat, Teaching]
+image: "../../media/hex_rr2021.png"
+---
+
+Les rencontres R 2021 ont eu lieu à AgroParisTech (Paris) les 12 et 13 juillet 2021 en format hybride.
+
+```{r set-up}
+#| include: false
+library(kableExtra)
+```
+
+```{r load-data}
+#| include: false
+programmes <- read.csv("../../data/tout.csv")
+programme <- dplyr::filter(programmes, conference == "rr2021")
+```
+```{r prog}
+#| echo: false
+programme |> dplyr::select(auteurrices, titre, mots_cles) |>
+          kable("html", caption = "Programme des rencontres") |>
+  kable_styling(bootstrap_options = c("striped", "hover")) |>
+  column_spec(1, color = spec_color(as.numeric(as.factor(programme$type))))
+```

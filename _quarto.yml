@@ -28,30 +28,8 @@ website:
         href: coc.qmd
       - text: "Mentions légales"
         href: mentionslegales.qmd 
-    - text: "Editions"
-      menu:
-      - text: "2025"
-        href: RR2025.qmd
-      - text: "2024"
-        href: RR2024.qmd
-      - text: "2023"
-        href: RR2023.qmd
-      - text: "2021"
-        href: RR2021.qmd
-      - text: "2018"
-        href: RR2018.qmd
-      - text: "2017"
-        href: RR2017.qmd
-      - text: "2016"
-        href: RR2016.qmd
-      - text: "2015"
-        href: RR2015.qmd
-      - text: "2014"
-        href: RR2014.qmd
-      - text: "2013"
-        href: RR2013.qmd
-      - text: "2012"
-        href: RR2012.qmd
+    - text: "Rencontres annuelles"
+      href: rencontres.qmd
     right:
       - text: "Source"
         icon: "git"
