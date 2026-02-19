@@ -2,7 +2,7 @@
 title: "Comité"
 ---
 
-Le comité de pilotage est constitué des personnes suivantes:
+Le comité de pilotage est constitué des personnes suivantes :
 
 - Julie Aubert
 - Rémy Drouilhet
@@ -12,6 +12,7 @@ Le comité de pilotage est constitué des personnes suivantes:
 - Aurélie Siberchicot
 
 Les anciens membres du comité de pilotage :
+
 - Marie Chavent
 - Stéphane Dray
 - Robin Genuer
