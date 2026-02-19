@@ -3,3 +3,5 @@
 \.quarto
 /.quarto/
 .Rproj.user
+
+**/*.quarto_ipynb
