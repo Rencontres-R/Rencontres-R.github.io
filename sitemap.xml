@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Rencontres-R.github.io/presentation.html</loc>
-    <lastmod>2025-09-15T09:12:12.791Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Rencontres-R.github.io/index.html</loc>
-    <lastmod>2025-09-15T09:12:12.791Z</lastmod>
+    <loc>https://Rencontres-R.github.io/comite.html</loc>
+    <lastmod>2026-02-19T14:43:15.999Z</lastmod>
   </url>
   <url>
     <loc>https://Rencontres-R.github.io/partenaires.html</loc>
-    <lastmod>2025-09-15T09:12:12.791Z</lastmod>
+    <lastmod>2026-02-19T14:43:16.002Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Rencontres-R.github.io/posts/RR2018/index.html</loc>
+    <lastmod>2026-02-19T14:43:16.003Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Rencontres-R.github.io/presentation.html</loc>
+    <lastmod>2026-02-19T14:43:16.003Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Rencontres-R.github.io/index.html</loc>
+    <lastmod>2026-02-19T14:43:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Rencontres-R.github.io/posts/RR2021/index.html</loc>
+    <lastmod>2026-02-19T14:43:16.003Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Rencontres-R.github.io/rencontres.html</loc>
+    <lastmod>2026-02-19T14:43:16.003Z</lastmod>
   </url>
   <url>
     <loc>https://Rencontres-R.github.io/RR2025.html</loc>
-    <lastmod>2025-09-15T09:12:12.791Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Rencontres-R.github.io/comite.html</loc>
-    <lastmod>2025-09-15T09:12:12.791Z</lastmod>
+    <lastmod>2026-02-19T14:43:15.999Z</lastmod>
   </url>
 </urlset>
