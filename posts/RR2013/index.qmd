@@ -9,19 +9,19 @@ tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2013Lyon.png"
 ---
 
-Les **2e Rencontres R de 2013** ont eu lieu à l'Université Claude Bernard Lyon 1 du 27 au 28 juin 2013 ([lien vers le site](https://r2013-lyon.sciencesconf.org)).
+Les 2e Rencontres R ont eu lieu à l'Université Claude Bernard Lyon 1 les 27 et 28 juin 2013 ([site web](https://r2013-lyon.sciencesconf.org)).
 
 **Conférenciers invités**
 
-- Hadley Wickham : *Visualising big data in R* ([résumé](https://r2013-lyon.sciencesconf.org/19361/wickham_abstract.pdf))
-
 - Karim Chine : *R and the Cloud* ([résumé](https://r2013-lyon.sciencesconf.org/19165/Abstract_RencontresR2013_Chine.pdf))
-
-- Jérôme Sueur : *R as a sound system* ([résumé](https://r2013-lyon.sciencesconf.org/18000/JSueur_Abstract.pdf))
 
 - Yvonnick Noël : *L'approche par comparaison de modèles avec R2STATS dans l'enseignement des statistiques en sciences humaines* ([résumé](https://r2013-lyon.sciencesconf.org/18927/ynoelR2013.pdf))
 
 - Gilbert Ritschard : *TraMineR : Une boite à outils pour l'exploration et la visualisation de séquences* ([résumé](https://r2013-lyon.sciencesconf.org/19057/GR_resume_RR2013.pdf))
+
+- Jérôme Sueur : *R as a sound system* ([résumé](https://r2013-lyon.sciencesconf.org/18000/JSueur_Abstract.pdf))
+
+- Hadley Wickham : *Visualising big data in R* ([résumé](https://r2013-lyon.sciencesconf.org/19361/wickham_abstract.pdf))
 
 
 ```{r set-up}

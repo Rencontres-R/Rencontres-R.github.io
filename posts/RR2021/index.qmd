@@ -6,10 +6,22 @@ date: '2021-07-12'
 slug: RR2021
 categories: [workshop]
 tags: [Shiny, DevOps, Reproducibility, Packages, Stat, Teaching]
-image: "../../media/hex_rr2021.png"
+image: "../../media/logo2021Paris.png"
 ---
 
-Les rencontres R 2021 ont eu lieu à AgroParisTech (Paris) les 12 et 13 juillet 2021 en format hybride.
+Les 8e Rencontres R ont eu lieu à AgroParisTech (Paris) les 12 et 13 juillet 2021 en format hybride. ([site web](https://rr2021.sciencesconf.org/))
+
+**Conférenciers invités et conférencières invitées**
+
+- Ahmadou Dicko : *Science de données humanitaire avec R* ([résumé](https://rr2021.sciencesconf.org/365381/AhmadouDicko.pdf))
+
+- Colin Gillespie : *It's raining R packages* ([résumé](https://rr2021.sciencesconf.org/363677/gabarit_RR_Colin_Gillespie.pdf))
+
+- Stephanie Locke : *Practical AI & Data Science Ethics* ([résumé](https://rr2021.sciencesconf.org/363820/gabarit_RR_stephLocke.pdf))
+
+- Maëlle Salmon : *S'il-vous-plaît... dessine-moi un projet* ([résumé](https://rr2021.sciencesconf.org/365277/salmon_rr2021.pdf))
+
+
 
 ```{r set-up}
 #| include: false
