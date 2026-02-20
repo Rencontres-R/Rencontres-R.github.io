@@ -33,11 +33,17 @@ website:
     - text: "Rencontres annuelles"
       href: rencontres.qmd
     right:
+      - text: ""
+        icon: "youtube"
+        href: https://www.youtube.com/@RencontresR
+      - text: ""
+        icon: "linkedin"
+        href: "https://www.linkedin.com/groups/14126026/"
+      - text: "Contact"
+        href: "contact.qmd"
       - text: "Source"
         icon: "git"
         href: https://github.com/Rencontres-R/Rencontres_R.git
-      - text: "Contact"
-        href: "contact.qmd"
 
 format:
   html:

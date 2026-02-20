@@ -2,6 +2,10 @@
 title: "Rencontres R"
 ---
 
+::: {.column-margin}
+![](media/logo_RR_small.png){width=200px}
+:::
+
 Les **Rencontres R** ont pour objectif d'offrir à la communauté francophone un lieu d'échange et de partage d'idées sur l'usage du langage R toutes disciplines confondues.
 
 **Vous trouverez sur ce site**
