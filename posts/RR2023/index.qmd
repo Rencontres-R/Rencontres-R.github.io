@@ -12,7 +12,12 @@ image: "../../media/logo2023Avignon.png"
 ![](../../media/logo2023Avignon.png)
 
 ::: {.column-margin}
-![](../../media/hex2023Avignon.png){width=150px}
+![](../../media/hex2023Avignon.png){width=150px}  
+
+
+* [rr2023.sciencesconf.org](https://rr2023.sciencesconf.org/)
+* [Github](https://github.com/Rencontres-R/Rencontres_R_2023)
+* [Youtube playlist](https://www.youtube.com/watch?v=sPiu8us444w&list=PLC0_Y4EpEglW-9XRKOzW1QUB2RpBWeHUO)
 :::
 
 
