@@ -7,4 +7,6 @@ listing:
   sort: "date desc"
   type: grid
   categories: true
+  image-align: left
+  image-height: 150px
 ---
