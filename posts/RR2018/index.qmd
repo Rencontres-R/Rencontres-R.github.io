@@ -23,7 +23,13 @@ Les 7e Rencontres R ont eu lieu à l'Institut Agro (Rennes) du 4 au 6 juillet 20
 
 - Romain Tavenard : *Introduction au deep Learning*
 
+**Tutoriels**
 
+- Sophie Donnet : Introduction au Deep learning avec R ([instructions pour suivre ce tutoriel](https://r2018-rennes.sciencesconf.org/data/pages/InstructionsTutoDonnet_3.pdf)) [diaporama du cours](https://r2018-rennes.sciencesconf.org/data/pages/cours_deeplearning_for_dummies.pdf), [tutoriel R](https://r2018-rennes.sciencesconf.org/data/pages/Deep_with_R_1.pdf), [SCRIPT](https://r2018-rennes.sciencesconf.org/data/pages/Deep_MNIST.txt)
+
+- Benoît Thieurmel : Premiers pas avec shiny... et les packages de visualisation interactive ([instructions pour suivre ce tutoriel](https://r2018-rennes.sciencesconf.org/data/pages/InstructionsTutoThieurmel_1.pdf)), [Matériel utilisé dans le tutoriel](https://r2018-rennes.sciencesconf.org/data/pages/tuto_shiny_rennes_master.zip)
+
+- Lise Vaudor : Travailler sur des textes : de la donnée brute à la visualisation ([instructions pour suivre ce tutoriel](https://r2018-rennes.sciencesconf.org/data/pages/InstructionsTutoVaudor.pdf)), [lien vers les documents utilisés pendant le tutoriel](http://perso.ens-lyon.fr/lise.vaudor/tuto-texte/)
 
 ```{r set-up}
 #| include: false
