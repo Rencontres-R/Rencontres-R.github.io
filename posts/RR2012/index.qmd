@@ -6,7 +6,7 @@ date: '2012-07-02'
 slug: RR2012
 categories: [workshop]
 tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
-image: "../../media/logo2013Lyon.png"
+image: "../../media/logo2012Bordeaux.png"
 ---
 
 Les 1e Rencontres R ont eu lieu à Bordeaux, les 2 et 3 juillet 2012 ([site web](http://r2012.bordeaux.inria.fr/)).
@@ -21,20 +21,20 @@ Les 1e Rencontres R ont eu lieu à Bordeaux, les 2 et 3 juillet 2012 ([site web]
 
 
 
-```{r set-up}
-#| include: false
-library(kableExtra)
-```
+<!-- ```{r set-up} -->
+<!-- #| include: false -->
+<!-- library(kableExtra) -->
+<!-- ``` -->
 
-```{r load-data}
-#| include: false
-programmes <- read.csv("../../data/tout.csv")
-programme <- dplyr::filter(programmes, conference == "rr2012")
-```
-```{r prog}
-#| echo: false
-programme |> dplyr::select(auteurrices, titre, mots_cles) |>
-          kable("html", caption = "Programme des rencontres") |>
-  kable_styling(bootstrap_options = c("striped", "hover")) |>
-  column_spec(1, color = spec_color(as.numeric(as.factor(programme$type))))
-```
+<!-- ```{r load-data} -->
+<!-- #| include: false -->
+<!-- programmes <- read.csv("../../data/tout.csv") -->
+<!-- programme <- dplyr::filter(programmes, conference == "rr2012") -->
+<!-- ``` -->
+<!-- ```{r prog} -->
+<!-- #| echo: false -->
+<!-- programme |> dplyr::select(auteurrices, titre, mots_cles) |> -->
+<!--           kable("html", caption = "Programme des rencontres") |> -->
+<!--   kable_styling(bootstrap_options = c("striped", "hover")) |> -->
+<!--   column_spec(1, color = spec_color(as.numeric(as.factor(programme$type)))) -->
+<!-- ``` -->
