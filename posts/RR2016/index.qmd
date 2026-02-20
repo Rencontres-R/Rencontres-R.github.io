@@ -1,0 +1,40 @@
+---
+title: Rencontres R 2016
+lang: fr
+author: ''
+date: '2016-06-22'
+slug: RR2016
+categories: [workshop]
+tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
+image: "../../media/logo2016Toulouse.png"
+---
+
+Les 5e Rencontres R ont eu lieu à Toulouse, du 22 au 24 juin 2016 ([site web](https://r2016-toulouse.sciencesconf.org/)).
+
+**Conférenciers invités**
+
+- Anne-Laure Boulesteix : *IPF-LASSO: integrative L1-penalized regression with penalty factors for prediction based on multi-omics data* ([présentation](https://r2016-toulouse.sciencesconf.org/conference/r2016-toulouse/pages/boulesteix.pdf))
+- Ryan Hafen : *Tools for analysis and visualization of large complex data in R*
+- François Husson : *De la simple vignette à l'enseignement par les MOOC, quelques idées pour améliorer la visibilité et l'accessibilité de son package* ([présentation](https://r2016-toulouse.sciencesconf.org/conference/r2016-toulouse/pages/husson.pdf))
+- Pascal Martin : *Analyser des données de séquençage NGS avec R/Bioconductor: un survol des packages essentiels*
+- Heather Turner : *Inclusion of women in the R community*
+
+
+
+```{r set-up}
+#| include: false
+library(kableExtra)
+```
+
+```{r load-data}
+#| include: false
+programmes <- read.csv("../../data/tout.csv")
+programme <- dplyr::filter(programmes, conference == "rr2016")
+```
+```{r prog}
+#| echo: false
+programme |> dplyr::select(auteurrices, titre, mots_cles) |>
+          kable("html", caption = "Programme des rencontres") |>
+  kable_styling(bootstrap_options = c("striped", "hover")) |>
+  column_spec(1, color = spec_color(as.numeric(as.factor(programme$type))))
+```
