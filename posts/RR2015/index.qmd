@@ -1,0 +1,58 @@
+---
+title: Rencontres R 2015
+lang: fr
+author: ''
+date: '2015-06-24'
+slug: RR2015
+categories: [workshop]
+tags: [Visualization, Packages, Biostat, Stat, Teaching]
+image: "../../media/logo2015Grenoble.png"
+---
+
+Les 4e Rencontres R ont eu lieu à Grenoble du 24 au 26 juin 2015 ([site web](https://r2015-grenoble.sciencesconf.org/)).
+
+**Conférenciers invités et conférencières invitées**
+
+- Timothee Giraud (Paris géographe, UMS RIATE) :
+*Représentation et traitement de l'information géographique avec R*
+
+R permet de simplifier les chaînes de traitements d'analyse spatiale et de cartographie qui nécessitait auparavant l'utilisation de nombreux logiciels (souvent propriétaires). A partir d'exemples nous illustrerons les différentes étapes du traitement de l'information géographique (acquisition et mise en forme, traitements, représentations). Nous aborderons notamment l'utilisation d'API de cartographie, la manipulation et la représentation de données géographiques (flux, stocks...), les opérations classiques de géotraitement ainsi que des traitements plus poussés faisant notamment appel aux méthodes de lissage spatial.
+
+- Thibault Laurent (Toulouse School of Economics, GREMAQ/CNRS)
+
+L'analyse statistique de données spatiales fait appel à des méthodes d’exploration et de modélisation qui sont propres à la nature «spatiale » des données. A partir d’études de cas, on essaiera de montrer un aperçu des méthodes et librairies R qui traitent des trois principaux courants de la statistique spatiale : l’économétrie spatiale (spdep, [Bivand et al., 2013]), les processus ponctuels spatiaux (spatstat, [Baddeley et Turner, 2005]) et la géostatistique (geoR, [Diggle et Ribeiro, 2007]) 
+
+- Erwan Le Pennec (Ecole Polytechnique, responsable du DSSP) *R, Data Science... et Formation*
+
+L'objectif de cet exposé est de montrer comment R peut être utilisé pour présenter (quasi) tous les aspects de la science des données : récupération des données, nettoyage, traitement statistique etvisualisation. Je m'appuierai pour cela sur deux programmes deformations récemment créés : le parcours Data Science du M2 Mathématique et applications Paris Saclay et  le Data Science Starter Program, une formation continue proposée par l'École polytechnique.
+
+- Floreal Moranda (Laboratoire Bordelais de Recherche en Informatique Institut Polytechnique de Bordeaux) *De la concision à l’efficacité, le cauchemar d’un informaticien*
+
+R est devenu la lingua-franca de nombreux domaines grâce à sa concision, ses NAs, ses objets et la possibilité d'exprimer symboliquement des formules. Les informaticiens n’y ont vu jusqu’à récemment qu’un outil pour tracer des graphes et non un langage.
+A l’origine (et encore aujourd’hui), les programmes sont développés en R, puis optimisés en C. Ceci requiert des doubles compétences de la part des programmeurs, augmente le risque d'erreur dans le code tout en le rendant difficilement maintenable.
+
+En tant qu'informaticien notre rôle n'est pas de juger le langage mais d'offrir des performances acceptables pour l'utilisateur final tout en préservant sa sémantique qui est malheureusement non spécifiée. Pour extraire cette sémantique, il nous a fallu regarder sous le capot, et c'est ainsi que le cauchemar a commencé …
+
+- Jeroen Ooms (University of California Los Angeles, OpenCPU, RAppArmor, ...) *jsonlite and mongolite*
+
+
+```{r set-up}
+#| include: false
+library(kableExtra)
+```
+
+```{r load-data}
+#| include: false
+programmes <- read.csv("../../data/tout.csv")
+programme <- dplyr::filter(programmes, conference == "rr2015")
+```
+```{r prog}
+#| echo: false
+programme |> dplyr::select(auteurrices, titre, mots_cles) |>
+          kable("html", caption = "Programme des rencontres") |>
+  kable_styling(bootstrap_options = c("striped", "hover")) |>
+  column_spec(1, color = spec_color(as.numeric(as.factor(programme$type))))
+```
+
+
+
