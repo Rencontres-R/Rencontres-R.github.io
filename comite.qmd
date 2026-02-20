@@ -4,18 +4,18 @@ title: "Comité"
 
 Le comité de pilotage est constitué des personnes suivantes :
 
-- Julie Aubert
-- Rémy Drouilhet
-- François Husson
-- Jean-François Rey
-- Maëlle Salmon
-- Aurélie Siberchicot
+- Julie Aubert (2023 -)
+- Rémy Drouilhet (2015 -)
+- [François Husson](https://husson.github.io/) (2011 -) Institut Agro Rennes-Angers
+- Jean-François Rey (2025 -)
+- Maëlle Salmon (2025 -)
+- Aurélie Siberchicot (2023 -)
 
 Les anciens membres du comité de pilotage :
 
-- Marie Chavent
-- Stéphane Dray
-- Robin Genuer
-- Julie Josse
-- Benoît Liquet
-- Jérôme Saracco
+- Marie Chavent (2011 - 2023)
+- Stéphane Dray (2014 - 2023)
+- Robin Genuer (2011 - 2025)
+- Julie Josse (2011 - 2025)
+- Benoît Liquet (2011 - 2023)
+- Jérôme Saracco (2011 - 2015)
