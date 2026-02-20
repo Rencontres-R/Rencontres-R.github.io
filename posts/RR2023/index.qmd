@@ -1,13 +1,20 @@
 ---
-title: Rencontres R 2023
+title: Rencontres R 2023 - Avignon
 lang: fr
 author: ''
 date: '2023-06-21'
 slug: RR2023
-categories: [workshop]
+categories: [Conférence]
 tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2023Avignon.png"
 ---
+
+![](../../media/logo2023Avignon.png)
+
+::: {.column-margin}
+![](../../media/hex2023Avignon.png){width=150px}
+:::
+
 
 Les 9e Rencontres R ont eu lieu à Avignon, du 21 au 23 juin 2023 ([site web](https://rr2023.sciencesconf.org/)).
 
