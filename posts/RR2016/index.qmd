@@ -19,7 +19,11 @@ Les 5e Rencontres R ont eu lieu à Toulouse, du 22 au 24 juin 2016 ([site web](h
 - Pascal Martin : *Analyser des données de séquençage NGS avec R/Bioconductor: un survol des packages essentiels*
 - Heather Turner : *Inclusion of women in the R community*
 
+**Tutoriels**
 
+- Thimothée Giraud : Cartographie avec R
+
+- Xavier Gendre et Sébastien Déjean : R2D² : R To Document Database
 
 ```{r set-up}
 #| include: false

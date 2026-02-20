@@ -11,6 +11,26 @@ image: "../../media/logo2017Anglet.png"
 
 Les 6e Rencontres R ont eu lieu à Anglet, du 28 au 30 juin 2017 ([site web](https://sfecologie.org/2016/11/23/6emes-rencontres-r-juin-2017/)).
 
+**Conférenciers invités**
+
+- Marie-Pierre Etienne : Ecololy Analysis using R
+
+- Thomas Gerds : Sensitivity analysis using lava simulation
+
+- Joel Gombin : Faut-il coder pour être (data)journaliste ? Comment les rédactions peuvent utiliser R
+
+- Julie Bertrand : Approche Bayésienne en pharmacogénétique avec JAGS
+et RStan
+
+- Farouk Nathoo : Bayesian Group-Sparse Multi-Task Regression for
+Imaging Genetics
+
+**Tutoriels**
+
+- Nicholas Tierney et Benoit Liquet : Reproductible documents avec Rstudio, Markdown et Github
+
+- Diane Beldame : Manipulation de données avec {dplyr} dans le tidyverse
+
 <!-- **Conférenciers invités** -->
 
 

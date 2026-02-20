@@ -24,7 +24,11 @@ Les 3e Rencontres R ont eu lieu à l'Institut Agro Montpellier du 25 et 24 juin 
 
 - Olivier Roustant et Yves Deville : *Packages (Re)Dice_ pour les computer experiments* ([résumé](https://r2014-mtp.sciencesconf.org/conference/r2014-mtp/pages/roustant.pdf))
 
+**Tutoriels**
 
+- Thomas Verron : Construction d’interfaces graphiques autonomes sous R
+
+- Milan Bouchet-Valat : Construction de plugins Rcommander
 
 ```{r set-up}
 #| include: false

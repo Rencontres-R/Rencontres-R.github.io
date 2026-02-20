@@ -23,7 +23,13 @@ Les 9e Rencontres R ont eu lieu à Avignon, du 21 au 23 juin 2023 ([site web](ht
 
 - Aurélie Vache : *Tips pour combattre le syndrome de l'imposteur* ([résumé](https://rr2023.sciencesconf.org/465770/document))
 
+**Tutoriels**
 
+- Christophe Dervieux : Quarto : De R Markdown à Quarto sans effort pour aller plus loin avec ses publications
+
+- Antoine Bichat et Julie Aubert : tidymodels : Créer un pipeline de machine learning complet avec {tidymodels}
+
+- Kim Antunez et Etienne Côme : Statspatial : Analyse spatiale et cartographie avec R
 
 ```{r set-up}
 #| include: false

@@ -35,6 +35,11 @@ En tant qu'informaticien notre rôle n'est pas de juger le langage mais d'offrir
 
 - Jeroen Ooms (University of California Los Angeles, OpenCPU, RAppArmor, ...) *jsonlite and mongolite*
 
+**Tutoriels**
+
+- Romain François : Introduction à Rcpp
+
+- Christophe Genolini : Programmation orientée objet sous R
 
 ```{r set-up}
 #| include: false

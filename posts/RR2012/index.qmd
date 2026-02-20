@@ -19,7 +19,8 @@ Les 1e Rencontres R ont eu lieu à Bordeaux, les 2 et 3 juillet 2012 ([site web]
 - Kim-Anh Lê Cao (Université de Queensland) : *Unravelling "omic" data with the R package mixOmics*
 - Martyn Plummer (Centre international de Recherche sur le Cancer) : *Modélisation bayésienne avec JAGS et R*
 
-
+**Résumés des exposés**
+[Lien vers le recueil des résumés](http://r2012.bordeaux.inria.fr/recueil_resumes_R2012.pdf)
 
 <!-- ```{r set-up} -->
 <!-- #| include: false -->

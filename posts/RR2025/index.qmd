@@ -23,7 +23,15 @@ Les 11e Rencontres R ont eu lieu à Mons (Belgique), du 19 au 21 mai 2025 ([site
 
 - Maryse Vanderplanck : *R et le déclin des pollinisateurs : des outils statistiques au service de l'écologie* ([résumé](https://rr2025.sciencesconf.org/628992/document))
 
+**Tutoriels**
 
+- Claire Della-Vedova : Introduction pratique à R : les fondamentaux pour organiser, analyser et visualiser
+
+- Vincent Guyader : Conception d'applications Shiny avec {golem}
+
+- Toby Dylan Hocking : Tutoriel {data.table}
+
+- Christophe Regouby : {torch}, {tabnet} et l'apprentissage profond par l'usage
 
 ```{r set-up}
 #| include: false

@@ -23,7 +23,11 @@ Les 10e Rencontres R ont eu lieu à Vannes, du 12 au 14 juin 2024 ([site web](ht
 
 - Nicolas Raillard : *R pour l'océano-météo et l’ingénierie marine* ([résumé](https://rr2024.sciencesconf.org/558418/document))
 
+**Tutoriels**
 
+- Tristan Mary-Huard : Dérivation automatique et optimisation avec la librairie torch
+
+- Bruno Rodrigues : Remplacer Docker et {renv} avec Nix pour des analyses reproductibles
 
 ```{r set-up}
 #| include: false

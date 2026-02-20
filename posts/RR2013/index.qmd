@@ -24,6 +24,13 @@ Les 2e Rencontres R ont eu lieu à l'Université Claude Bernard Lyon 1 les 27 et
 - Hadley Wickham : *Visualising big data in R* ([résumé](https://r2013-lyon.sciencesconf.org/19361/wickham_abstract.pdf))
 
 
+**Tutoriels**
+- Vincent Miele : Parallel computing with R
+
+- Anne-Béatrice Dufour & Sylvain Mousset : Writing a report with Sweave
+
+- Christophe Genolini : Building an R package
+
 ```{r set-up}
 #| include: false
 library(kableExtra)
