@@ -1,5 +1,5 @@
 ---
-title: Rencontres R 2024
+title: Rencontres R 2024 - Vannes
 lang: fr
 author: ''
 date: '2024-06-12'
@@ -9,9 +9,19 @@ tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2024Vannes.png"
 ---
 
+![](../../media/logo2024Vannes.png)
+
+::: {.column-margin}
+![](../../media/hex2024Vannes.png){width=150px}  
+
+
+* [rr2024.sciencesconf.org/](https://rr2024.sciencesconf.org/)
+:::
+
 Les 10e Rencontres R ont eu lieu à Vannes, du 12 au 14 juin 2024 ([site web](https://rr2024.sciencesconf.org/)).
 
-**Conférenciers invités**
+
+**Conférenciers invités et conférencières invitées**
 
 - Philippe Grosjean : *Apprendre R et les statistiques... grâce à R* ([résumé](https://rr2024.sciencesconf.org/558616/document))
 
@@ -23,11 +33,13 @@ Les 10e Rencontres R ont eu lieu à Vannes, du 12 au 14 juin 2024 ([site web](ht
 
 - Nicolas Raillard : *R pour l'océano-météo et l’ingénierie marine* ([résumé](https://rr2024.sciencesconf.org/558418/document))
 
+
 **Tutoriels**
 
-- Tristan Mary-Huard : Dérivation automatique et optimisation avec la librairie torch
+- Tristan Mary-Huard : *Dérivation automatique et optimisation avec la librairie torch*
 
-- Bruno Rodrigues : Remplacer Docker et {renv} avec Nix pour des analyses reproductibles
+- Bruno Rodrigues : *Remplacer Docker et {renv} avec Nix pour des analyses reproductibles*
+
 
 ```{r set-up}
 #| include: false

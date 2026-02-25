@@ -1,5 +1,5 @@
 ---
-title: Rencontres R 2025
+title: Rencontres R 2025 - Mons
 lang: fr
 author: ''
 date: '2025-05-19'
@@ -9,9 +9,18 @@ tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2025Mons.png"
 ---
 
+![](../../media/logo2025Mons.png)
+
+::: {.column-margin}
+![](../../media/hex2025Mons.png){width=150px}  
+
+
+* [rr2025.sciencesconf.org/](https://rr2025.sciencesconf.org/)
+:::
+
 Les 11e Rencontres R ont eu lieu à Mons (Belgique), du 19 au 21 mai 2025 ([site web](https://rr2025.sciencesconf.org/)).
 
-**Conférenciers invités**
+**Conférenciers invités et conférencières invitées**
 
 - Olivier Crouzet : *R pour l’analyse de données vectorielles en analyse de la parole* ([résumé](https://rr2025.sciencesconf.org/628994/document))
 
@@ -23,15 +32,17 @@ Les 11e Rencontres R ont eu lieu à Mons (Belgique), du 19 au 21 mai 2025 ([site
 
 - Maryse Vanderplanck : *R et le déclin des pollinisateurs : des outils statistiques au service de l'écologie* ([résumé](https://rr2025.sciencesconf.org/628992/document))
 
+
 **Tutoriels**
 
-- Claire Della-Vedova : Introduction pratique à R : les fondamentaux pour organiser, analyser et visualiser
+- Claire Della-Vedova : *Introduction pratique à R : les fondamentaux pour organiser, analyser et visualiser*
 
-- Vincent Guyader : Conception d'applications Shiny avec {golem}
+- Vincent Guyader : *Conception d'applications Shiny avec {golem}*
 
-- Toby Dylan Hocking : Tutoriel {data.table}
+- Toby Dylan Hocking : *Tutoriel {data.table}*
 
-- Christophe Regouby : {torch}, {tabnet} et l'apprentissage profond par l'usage
+- Christophe Regouby : *{torch}, {tabnet} et l'apprentissage profond par l'usage*
+
 
 ```{r set-up}
 #| include: false

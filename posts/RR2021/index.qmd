@@ -1,5 +1,5 @@
 ---
-title: Rencontres R 2021
+title: Rencontres R 2021 - Paris
 lang: fr
 author: ''
 date: '2021-07-12'
