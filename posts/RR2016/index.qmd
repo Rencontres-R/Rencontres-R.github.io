@@ -1,5 +1,5 @@
 ---
-title: Rencontres R 2016
+title: Rencontres R 2016 - Toulouse
 lang: fr
 author: ''
 date: '2016-06-22'
@@ -9,21 +9,38 @@ tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2016Toulouse.png"
 ---
 
-Les 5e Rencontres R ont eu lieu à Toulouse, du 22 au 24 juin 2016 ([site web](https://r2016-toulouse.sciencesconf.org/)).
+![](../../media/logo2016Toulouse.png)
 
-**Conférenciers invités**
+::: {.column-margin}
+![](../../media/hex2016Toulouse.png){width=150px}  
+
+
+* [r2016-toulouse.sciencesconf.org/](https://r2016-toulouse.sciencesconf.org/)
+:::
+
+
+Les 5e Rencontres R ont eu lieu à Toulouse du 22 au 24 juin 2016 ([site web](https://r2016-toulouse.sciencesconf.org/)).
+
+
+**Conférenciers invités et conférencières invitées**
 
 - Anne-Laure Boulesteix : *IPF-LASSO: integrative L1-penalized regression with penalty factors for prediction based on multi-omics data* ([présentation](https://r2016-toulouse.sciencesconf.org/conference/r2016-toulouse/pages/boulesteix.pdf))
+
 - Ryan Hafen : *Tools for analysis and visualization of large complex data in R*
+
 - François Husson : *De la simple vignette à l'enseignement par les MOOC, quelques idées pour améliorer la visibilité et l'accessibilité de son package* ([présentation](https://r2016-toulouse.sciencesconf.org/conference/r2016-toulouse/pages/husson.pdf))
+
 - Pascal Martin : *Analyser des données de séquençage NGS avec R/Bioconductor: un survol des packages essentiels*
+
 - Heather Turner : *Inclusion of women in the R community*
+
 
 **Tutoriels**
 
-- Thimothée Giraud : Cartographie avec R
+- Thimothée Giraud : *Cartographie avec R*
 
-- Xavier Gendre et Sébastien Déjean : R2D² : R To Document Database
+- Xavier Gendre & Sébastien Déjean : *R2D² : R To Document Database*
+
 
 ```{r set-up}
 #| include: false

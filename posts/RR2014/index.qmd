@@ -12,7 +12,7 @@ image: "../../media/logo2014Montpellier.jpg"
 ![](../../media/logo2014Montpellier.jpg)
 
 ::: {.column-margin}
-![](../../media/hex2014Montpellier.jpg){width=200px}  
+![](../../media/hex2014Montpellier.png){width=150px}  
 
 
 * [r2014-mtp.sciencesconf.org/](https://r2014-mtp.sciencesconf.org/)

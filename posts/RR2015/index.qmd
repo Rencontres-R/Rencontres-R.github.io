@@ -21,7 +21,7 @@ image: "../../media/logo2015Grenoble.png"
 
 Les 4e Rencontres R ont eu lieu à Grenoble du 24 au 26 juin 2015 ([site web](https://r2015-grenoble.sciencesconf.org/)).
 
-**Conférenciers invités et conférencières invitées**
+**Conférenciers invités**
 
 - Timothée Giraud (Paris géographe, UMS RIATE) : *Représentation et traitement de l'information géographique avec R*
 
