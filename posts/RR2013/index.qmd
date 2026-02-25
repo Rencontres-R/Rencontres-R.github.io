@@ -1,13 +1,21 @@
 ---
-title: Rencontres R 2013
+title: Rencontres R 2013 - Lyon
 lang: fr
 author: ''
 date: '2013-06-27'
 slug: RR2013
-categories: [workshop]
-tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2013Lyon.png"
 ---
+
+![](../../media/logo2023Lyon.png)
+
+::: {.column-margin}
+![](../../media/hex2013Lyon.png){width=150px}  
+
+
+* [r2013-lyon.sciencesconf.org](https://r2013-lyon.sciencesconf.org)
+* [R Journal article](https://journal.r-project.org/news/RJ-2013-2-siberchicot-dray/)
+:::
 
 Les 2e Rencontres R ont eu lieu à l'Université Claude Bernard Lyon 1 les 27 et 28 juin 2013 ([site web](https://r2013-lyon.sciencesconf.org)).
 
@@ -25,11 +33,12 @@ Les 2e Rencontres R ont eu lieu à l'Université Claude Bernard Lyon 1 les 27 et
 
 
 **Tutoriels**
-- Vincent Miele : Parallel computing with R
 
-- Anne-Béatrice Dufour & Sylvain Mousset : Writing a report with Sweave
+- Vincent Miele : *Parallel computing with R*
 
-- Christophe Genolini : Building an R package
+- Anne-Béatrice Dufour & Sylvain Mousset : *Writing a report with Sweave*
+
+- Christophe Genolini : *Building an R package*
 
 ```{r set-up}
 #| include: false
