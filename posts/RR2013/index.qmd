@@ -17,7 +17,7 @@ image: "../../media/logo2013Lyon.png"
 * [Article dans le R Journal](https://journal.r-project.org/news/RJ-2013-2-siberchicot-dray/)
 :::
 
-Les 2e Rencontres R ont eu lieu à l'Université Claude Bernard Lyon 1, les 27 et 28 juin 2013 ([site web](https://r2013-lyon.sciencesconf.org)).
+Les 2e Rencontres R ont eu lieu à Lyon du 26 au 28 juin 2013 ([site web](https://r2013-lyon.sciencesconf.org)).
 
 **Conférenciers invités**
 
