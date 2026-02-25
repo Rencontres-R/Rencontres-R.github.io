@@ -7,17 +7,17 @@ slug: RR2013
 image: "../../media/logo2013Lyon.png"
 ---
 
-![](../../media/logo2023Lyon.png)
+![](../../media/logo2013Lyon.png)
 
 ::: {.column-margin}
-![](../../media/hex2013Lyon.png){width=150px}  
+![](../../media/hex2013Lyon.png){width=200px}  
 
 
 * [r2013-lyon.sciencesconf.org](https://r2013-lyon.sciencesconf.org)
-* [R Journal article](https://journal.r-project.org/news/RJ-2013-2-siberchicot-dray/)
+* [Article dans le R Journal](https://journal.r-project.org/news/RJ-2013-2-siberchicot-dray/)
 :::
 
-Les 2e Rencontres R ont eu lieu à l'Université Claude Bernard Lyon 1 les 27 et 28 juin 2013 ([site web](https://r2013-lyon.sciencesconf.org)).
+Les 2e Rencontres R ont eu lieu à l'Université Claude Bernard Lyon 1, les 27 et 28 juin 2013 ([site web](https://r2013-lyon.sciencesconf.org)).
 
 **Conférenciers invités**
 
