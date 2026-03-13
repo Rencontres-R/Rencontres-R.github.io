@@ -4,7 +4,7 @@ lang: fr
 author: ''
 date: '2015-06-24'
 slug: RR2015
-categories: [workshop]
+categories: [Conférence]
 tags: [Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2015Grenoble.png"
 ---

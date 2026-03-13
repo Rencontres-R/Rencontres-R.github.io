@@ -32,6 +32,8 @@ website:
         href: mentionslegales.qmd 
     - text: "Rencontres annuelles"
       href: rencontres.qmd
+    - text: "Edition 2026 - Nantes"
+      href: posts/RR2026/index.qmd
     right:
       - text: ""
         icon: "youtube"

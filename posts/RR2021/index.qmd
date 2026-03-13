@@ -4,7 +4,7 @@ lang: fr
 author: ''
 date: '2021-07-12'
 slug: RR2021
-categories: [workshop]
+categories: [Conférence]
 tags: [Shiny, DevOps, Reproducibility, Packages, Stat, Teaching]
 image: "../../media/logo2021Paris.png"
 ---

@@ -1,0 +1,12 @@
+---
+title: "Contact"
+---
+
+Le comité de pilote peut être contacté via [copil-rencontres-r@groupes.renater.fr](mailto:copil-rencontres-r@groupes.renater.fr)
+
+
+## Ressources externes
+
+* [youtube](https://www.youtube.com/@RencontresR)  
+* [linkedin](https://www.linkedin.com/groups/14126026/)  
+* [github](https://github.com/Rencontres-R/Rencontres_R.git)  

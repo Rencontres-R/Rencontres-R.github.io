@@ -2,12 +2,14 @@
 title: "Comité"
 ---
 
+Le comité de pilote peut être contacté via [copil-rencontres-r@groupes.renater.fr](copil-rencontres-r@groupes.renater.fr).
+
 Le comité de pilotage est constitué des personnes suivantes :
 
 - Julie Aubert (2023 -)
 - Rémy Drouilhet (2015 -)
 - [François Husson](https://husson.github.io/) (2011 -) Institut Agro Rennes-Angers
-- Jean-François Rey (2025 -)
+- [Jean-François Rey](https://jeff.biosp.org) (2025 -) INRAE
 - Maëlle Salmon (2025 -)
 - [Aurélie Siberchicot](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/siberchicot-aurelie) (2023 -) Lyon 1 Université
 

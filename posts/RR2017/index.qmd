@@ -4,7 +4,7 @@ lang: fr
 author: ''
 date: '2017-06-28'
 slug: RR2017
-categories: [workshop]
+categories: [Conférence]
 tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2017Anglet.png"
 ---

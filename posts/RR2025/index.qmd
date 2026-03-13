@@ -4,7 +4,7 @@ lang: fr
 author: ''
 date: '2025-05-19'
 slug: RR2025
-categories: [workshop]
+categories: [Conférence]
 tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2025Mons.png"
 ---

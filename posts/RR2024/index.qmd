@@ -4,7 +4,7 @@ lang: fr
 author: ''
 date: '2024-06-12'
 slug: RR2024
-categories: [workshop]
+categories: [Conférence]
 tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2024Vannes.png"
 ---
