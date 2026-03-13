@@ -1,0 +1,67 @@
+### Code de conduite
+
+La Société Francaise de Statistique (SFdS) attache une importance particulière à la prévention et à la lutte contre toute forme de pression, de discrimination ou de violence, notamment sexiste ou sexuelle, au sein de ses activités et de sa communauté. 
+La participation à nos activités implique le respect de ces principes et la contribution de chacune et chacun à un environnement bienveillant et sûr, fondé sur le respect, l'équité et l'intégrité.
+
+Le non-respect de cet engagement pourra entraîner des mesures adaptées, pouvant aller jusqu'à l'exclusion immédiate de l'évènement scientifique concerné et conduire à un signalement par la SFdS auprès des autorités compétentes.
+
+L'inscription aux Rencontres R engage à l'adoption d'un comportement respectueux et à l'abstention de toute pression, discrimination ou violence, notamment sexiste et sexuelle.
+
+
+Les organisateurs des Rencontres R s'engagent à offrir une expérience de conférence sans harcèlement pour toutes et tous, quel que soit l'âge, le sexe, l'orientation sexuelle, le handicap, l'apparence physique, la race ou la religion (ou son absence).
+
+Tous les participantes et participants (y compris les membres des comités, les conférencier.e.s, les partenaires et les bénévoles) aux Rencontres R sont tenu.e.s d'accepter le code de conduite de la SFdS ainsi que les règles suivantes.
+
+Le code de conduite s'applique à toutes les activités de la conférence, y compris les conférences, les panels, les ateliers et les événements sociaux. Il s'étend aux échanges spécifiques à la conférence sur les réseaux sociaux, par exemple les messages marqués avec l'identifiant de la conférence, les réponses à ces messages et les réponses au compte de réseau social officiel.
+
+Les organisateur.ice.s appliqueront ce code tout au long et s'attendent à une coopération pour assurer un environnement sûr pour tous.
+
+#### Comportement attendu
+
+Tous les participantes et participants à la conférence s'engagent à :
+
+* Etre prévenant.e dans le langage et les actions, et respecter les limites des autres participant.e.s.
+* S'abstenir de tout comportement et langage dégradants, discriminatoires ou harcelants. 
+* Alerter un membre de l'équipe organisatrice, identifiable par badge, si il ou elle remarque une personne en détresse, ou constate des violations de ce code de conduite et ce, même si elles semblent sans conséquence.
+
+#### Comportement inacceptable
+
+Les comportements inacceptables incluent, mais sans s'y limiter :
+
+* Traquer.  
+* Intimidation délibérée.  
+* Photographie ou enregistrement non désiré.  
+* Interruption soutenue ou délibérée des discussions ou d'autres événements.  
+* Utilisation d'images, de commentaires ou de blagues à caractère sexuel ou discriminatoire
+* Commentaires offensants liés à l'âge, au sexe, à l'orientation sexuelle, au handicap, à la race ou à la religion.  
+* Contact physique inapproprié, qui peut inclure saisir, masser ou étreindre sans consentement.  
+* Attention sexuelle importune, qui peut inclure des questions inappropriées de nature sexuelle, demander des faveurs sexuelles ou demander à plusieurs reprises des dates ou des informations de contact.
+
+Si on vous demande de cesser un comportement de harcèlement, vous devez cesser immédiatement. Même si votre comportement était censé être amical ou une plaisanterie, il n'a clairement pas été pris de cette façon et pour le confort de tous les participantes et participants à la conférence, vous devez arrêter.
+
+#### Exigences supplémentaires pour les contributions à la conférence
+
+Les diapositives de présentation et les affiches ne doivent pas contenir de matériel offensant ou sexualisé. S'il est impossible d'éviter ce matériel compte tenu du sujet (par exemple, extraction de texte de matériel provenant de sites haineux), l'existence de ce matériel doit être notée dans le résumé et, dans le cas de contributions orales, au début de l'exposé ou de la session.
+
+#### Exigences supplémentaires pour les sponsors
+
+Les sponsors ne doivent pas utiliser d'images, d'activités ou d'autres éléments sexualisés. Le personnel du stand (y compris les bénévoles) ne doit pas utiliser de vêtements/uniformes/costumes sexualisés, ni créer d'une autre manière un environnement sexualisé. En cas d'infractions, des sanctions peuvent être appliquées sans restitution de la contribution de parrainage.
+
+#### Procédure en cas de violation du code de conduite
+
+Le comité organisateur se réserve le droit de déterminer la réponse appropriée pour toute violation du code de conduite. Les réponses potentielles incluent :
+
+* un avertissement formel pour arrêter le comportement de harcèlement,
+* une expulsion de la conférence,
+* un retrait des affichages des sponsors ou des affiches de la conférence
+* une annulation ou interruption anticipée des pourparlers ou autres contributions au programme.
+* Aucun remboursement ne peut être accordé en cas d'expulsion.
+
+Les questions ou préoccupations concernant le Code de conduite peuvent être adressées au comité d'organisation de l'édition en cours.
+
+ 
+
+#### Remerciements
+
+Certaines parties du texte ci-dessus sont sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Crédit à [SRCCON](https://srccon.org/conduct/). Ce code de conduite était basé sur celui développé pour useR! 2020 et utilisé lors des éditions précédentes et s'inspirait également du [code de conduite de rOpenSci](https://ropensci.org/code-of-conduct/). Cette version est inspirée de la version Française rédigée par les équipes d'organisation des éditions de Rencontres R précédentes.
+

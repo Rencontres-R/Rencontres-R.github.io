@@ -6,18 +6,18 @@ title: "Rencontres R"
 ![](media/logo_RR_small.png){width=200px}
 :::
 
-Les **Rencontres R** ont pour objectif d'offrir à la communauté francophone un lieu d'échange et de partage d'idées sur l'usage du langage R toutes disciplines confondues.
+Depuis 2012, les **Rencontres R** constituent la plus grande manifestation francophone dédiée au langage [R](https://www.r-project.org/) et son écosystème, sous l’égide de la Société Française de Statistique ([SFdS](https://www.sfds.asso.fr/)). Les **Rencontres R** ont pour objectif d'offrir à la communauté francophone un lieu d'échange et de partage d'idées toutes disciplines confondues. La conférence réunit à chaque édition les principaux contributeurs de cette communauté très active et s'adresse aussi bien aux débutants qu'aux utilisateurs confirmés et expérimentés issus de tous les secteurs d'activités.
 
 **Vous trouverez sur ce site**
 
--   les actualités sur les rencontres R (notamment les prochaines rencontres R)
+-   L'édition [RR2026](posts/RR2026/index.qmd) à venir.
 
--   les liens vers chacune des rencontres R qui ont déjà eu lieu
+-   Les [éditions précédentes](rencontres.qmd).
 
--   les résumés de toutes les rencontres avec une recherche par mots-clés ou auteurs
+-   Toutes informations sur cette confèrence et son organisation.
 
--   des liens pour communiquer avec la communauté R (slack, linkedIn)
+**Retrouver nous sur**
 
--   une chaine Youtube avec les présentations enregistrées
-
--   etc.
+* [youtube](https://www.youtube.com/@RencontresR)  
+* [linkedin](https://www.linkedin.com/groups/14126026/)  
+* [github](https://github.com/Rencontres-R/Rencontres_R.git)  
