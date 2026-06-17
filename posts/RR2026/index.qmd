@@ -12,5 +12,13 @@ image: "../../media/logo2026Nantes.png"
 ![](../../media/logo2026Nantes.png)
 
 
+::: {.column-margin}
+![](../../media/hexRR2026Nantes.png){width=150px}  
+
+
+* [rr2026.sciencesconf.org](https://rr2026.sciencesconf.org/)
+:::
+
+
 Les 12e Rencontres R ont lieu à Nantes, du 16 au 18 juin 2026 ([site web](https://rr2026.sciencesconf.org/)).
 
