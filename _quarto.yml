@@ -24,8 +24,6 @@ website:
         href: presentation.qmd
       - text: "Comité"
         href: comite.qmd
-      - text: "Partenaires"
-        href: partenaires.qmd
       - text: "Code de conduite"
         href: coc.qmd
     - text: "Rencontres annuelles"
