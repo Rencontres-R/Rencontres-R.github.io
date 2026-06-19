@@ -13,7 +13,7 @@ Le comité de pilotage est constitué des personnes suivantes :
 - [Aurélie Siberchicot](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/siberchicot-aurelie) (2023 -) Lyon 1 Université
 - [Aymeric Stamm](https://astamm.github.io/) (2026 - ) CNRS
 
-![](media/comite_pilotage_RR.jpg){width="400px" fig-alt="Photo des membres du comite de pilotage" fig-align="center"}
+![François - Maëlle - Aurélie - Aymeric - Julie - Jean-François](media/comite_pilotage_RR.jpg){width="400px" fig-alt="Photo des membres du comite de pilotage" fig-align="center"}
 
 
 Les anciens membres du comité de pilotage :

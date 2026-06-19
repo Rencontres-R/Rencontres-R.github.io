@@ -4,8 +4,8 @@ lang: fr
 author: ''
 date: '2026-06-16'
 slug: RR2026
-categories: [Conférence]
-tags: []
+categories: [passée, Conférence]
+tags: [Archeologie, LLM, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2026Nantes.png"
 ---
 

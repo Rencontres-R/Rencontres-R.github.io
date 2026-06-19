@@ -4,7 +4,7 @@ lang: fr
 author: ''
 date: '2023-06-21'
 slug: RR2023
-categories: [Conférence]
+categories: [passée, Conférence]
 tags: [DeepLearning, Visualization, Packages, Biostat, Stat, Teaching]
 image: "../../media/logo2023Avignon.png"
 ---

@@ -4,7 +4,7 @@ lang: fr
 author: ''
 date: '2013-06-27'
 slug: RR2013
-categories: [Conférence]
+categories: [passée, Conférence]
 image: "../../media/logo2013Lyon.png"
 ---
 

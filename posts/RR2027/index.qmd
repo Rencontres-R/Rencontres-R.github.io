@@ -4,7 +4,7 @@ lang: fr
 author: ''
 date: '2027-06-16'
 slug: RR2026
-categories: [Conférence]
+categories: [à venir, Conférence]
 tags: []
 image: "../../media/logo2027MTP.png"
 ---
@@ -20,5 +20,5 @@ image: "../../media/logo2027MTP.png"
 :::
 
 
-Les 13e Rencontres R ont lieu à Montpellier, du 16 au 18 juin 2026 ([site web](https://rr2027.sciencesconf.org/)).
+Les 13e Rencontres R ont lieu à Montpellier, du 16 au 18 juin 2027 ([site web](https://rr2027.sciencesconf.org/)).
 
