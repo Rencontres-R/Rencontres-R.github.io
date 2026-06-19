@@ -1,5 +1,5 @@
 ---
-title: "Edition des Rencontres R"
+title: "Editions des Rencontres R"
 lang: fr
 listing:
   contents: posts
